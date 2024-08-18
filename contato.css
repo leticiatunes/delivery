@@ -1,0 +1,138 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#fundo-cabecalho{
+    width: 100%;
+    height: 231px;
+    background-color: #383333;
+    padding: 20px   ;
+}
+
+#texto-cabecalho {
+    display: flex;
+}   
+
+#texto-cabecalho li {
+    list-style: none;
+    color: white;
+}
+
+#logo{
+    width: 357px;
+    height: 241px;
+    border-radius: 157.5px ;  
+    margin-top: -20px;
+}
+
+#quem{
+    font-family: Klee One;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 69.5px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 350px;
+
+}
+
+#sec-quem{
+    font-family: KoPub Batang;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 43.76px;
+    text-align: center;
+    color: #DF5252;
+    margin-top: 10px;
+}
+
+#fundo-contato{
+    width: 100%;
+    background: #FFF1C0;
+    height: 85vh;
+    padding: 10px;
+}
+
+#texto-contato{
+    text-align: center;
+}
+
+#texto-contato h1{
+    font-family: Klee One;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 57.92px;
+    text-align: center;
+    color: #383333;
+}
+
+#sec-contato{
+    text-align: center;
+}
+
+#sec-contato p{
+    font-family: Klee One;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 52.13px;
+    margin-top: 70px;
+    color: #6A5C59;
+}
+
+#retangulo-contato{
+    width: 1203px;
+    height: 208px;
+    border-radius: 20px;
+    background-color: #EB72574D;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+#retangulo-contato li{
+    list-style: none;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+#ul-contato{
+    display: flex;
+}
+
+#txt-cnt{
+    font-family: Khmer;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 54.69px;
+    text-align: center;
+
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: solid 2px;
+    background-color: #383333;
+    border-color: #383333;
+    margin-top: -20px;
+}
+#ba{
+    margin-left: 40px;
+}
+
+#bp{
+    display:block;
+    float:right;
+    margin-right: 40px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+#butao-comandos{
+    margin-top: 100px;
+}

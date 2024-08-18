@@ -1,0 +1,196 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#fundo-cabecalho{
+    width: 100%;
+    height: 231px;
+    background-color: #383333;
+    padding: 20px   ;
+}
+
+#texto-cabecalho {
+    display: flex;
+}   
+
+#texto-cabecalho li {
+    list-style: none;
+    color: white;
+}
+
+#logo{
+    width: 357px;
+    height: 241px;
+    border-radius: 157.5px ;  
+    margin-top: -20px;
+}
+
+#quem{
+    font-family: Klee One;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 69.5px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 450px;
+
+}
+
+#sec-quem{
+    font-family: KoPub Batang;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 43.76px;
+    text-align: center;
+    color: #DF5252;
+    margin-top: 10px;
+}
+
+#fundo-cadastro{
+    width: 100%;
+    background: #FFF1C0;
+    height: 95vh;
+    padding: 10px;
+}
+
+#titulo{
+    font-family: Klee One;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 28.96px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+#retangulo-cadastro{
+    width: 550px;
+    height: 200px;
+    border-radius: 20px ;
+    background: #EB725745;
+    margin-left: 670px;
+    margin-top: 40px;
+}
+
+#email{
+padding-top: 30px;
+}
+
+#ul-cadastro{
+    list-style: none;
+   
+}
+
+#ul-cadastro li{
+    margin-top: 50px;
+    font-family: Klee One;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 28.96px;
+}
+
+#input{
+    width: 311px;
+    height: 45px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: #FF78783B;
+}
+
+::placeholder{
+      padding-left: 30px;  
+}
+
+#ou{
+    font-family: Klee One;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 28.96px;
+    text-align: center;
+
+}
+
+#ul-redes{
+    margin-left: 710px;
+    margin-top: 40px;
+}
+
+#ul-redes li{
+    list-style: none;
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #FF787857;
+    margin-top: 30px;
+}
+
+#txt-google{
+    font-family: Klee One;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 28.96px;
+    text-align: center;
+}
+
+#txt-apple{
+    font-family: Klee One;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 28.96px;
+    text-align: center;
+}
+
+#txt-face{
+    font-family: Klee One;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 28.96px;
+    text-align: center;
+}
+
+#img-google{
+    width: 29px;
+    height: 26px;
+    margin-top: 10px;
+}
+
+#img-apple{
+    width: 39px;
+    height: 39px;
+    margin-top: 5px;
+}
+
+#img-face{
+    width: 36px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: solid 2px;
+    background-color: #383333;
+    border-color: #383333;
+    margin-top: -20px;
+}
+#ba{
+    margin-left: 40px;
+}
+
+#bp{
+    display:block;
+    float:right;
+    margin-right: 40px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+#butao-comandos{
+    margin-top: 100px;
+}

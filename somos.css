@@ -1,0 +1,111 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#fundo-cabecalho{
+    width: 100%;
+    height: 231px;
+    background-color: #383333;
+    padding: 20px   ;
+}
+
+#texto-cabecalho {
+    display: flex;
+}   
+
+#texto-cabecalho li {
+    list-style: none;
+    color: white;
+}
+
+#logo{
+    width: 357px;
+    height: 241px;
+    border-radius: 157.5px ;  
+    margin-top: -20px;
+}
+
+#quem{
+    font-family: Klee One;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 69.5px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 350px;
+
+}
+
+#sec-quem{
+    font-family: KoPub Batang;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 43.76px;
+    text-align: center;
+    color: #DF5252;
+    margin-top: 10px;
+}
+
+#fundo-conteudo{
+    width: 100%;
+    background: #FFF1C0;
+    height: 95vh;
+    padding: 10px;
+}
+
+#texto-conteudo{
+    color: #3E3636; 
+}
+
+
+#texto-conteudo h1{
+    font-family: Klee One;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 46.34px;
+    text-align: center; 
+    margin-top: 90px;  
+}
+
+#texto-conteudo h2{
+    font-family: Klee One;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 52.13px;
+    text-align: center;
+    margin-top: 90px;
+}
+#texto-conteudo h3{
+    font-family: Klee One;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 46.34px;
+    text-align: center;
+    margin-top: 90px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: solid 2px;
+    background-color: #383333;
+    border-color: #383333;
+    margin-top: -20px;
+}
+#ba{
+    margin-left: 40px;
+}
+
+#bp{
+    display:block;
+    float:right;
+    margin-right: 40px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
